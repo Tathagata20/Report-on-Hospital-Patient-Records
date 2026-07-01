@@ -17,3 +17,10 @@ Massachusetts General Hospital needs a data analyst to prepare its annual perfor
 - How long are patients staying in the hospital, on average? 
 - How much is the average cost per visit? 
 - How many procedures are covered by insurance?
+
+## Data Source
+https://mavenanalytics.io/data-playground/hospital-patient-records
+
+## TechStack
+- MySQL
+- Tableau Public
