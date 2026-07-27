@@ -18,6 +18,12 @@ Massachusetts General Hospital needs a data analyst to prepare its annual perfor
 - How much is the average cost per visit? 
 - How many procedures are covered by insurance?
 
+## Insights
+- A total of 366 patients are readmitted within 30 days of discharge.
+- Average stay per encounter is 8.328 hours.
+- The average total claim cost per visit is $377.92. 
+- 9077 procedures are covered by payer coverage.
+
 ## Data Source
 https://mavenanalytics.io/data-playground/hospital-patient-records
 
